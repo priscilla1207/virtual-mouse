@@ -71,7 +71,17 @@ python mouse.py
 
 Completed and open-source on GitHub.
 
-#demo
+## GitHub Recognition
+
+⭐ This project has received 50+ stars on GitHub.
+
+## Future Improvements
+
+- Right click support
+- Drag and drop gestures
+- Volume and brightness control
+- Multi-hand gesture support
+- Improved cursor smoothing
 
 ## Demo Video
 
