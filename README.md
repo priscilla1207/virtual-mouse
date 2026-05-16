@@ -71,6 +71,12 @@ python mouse.py
 
 Completed and open-source on GitHub.
 
+#demo
+
+## Demo Video
+
+https://github.com/priscilla1207/virtual-mouse/assets/
+
 ## Author
 
 Priscilla1207
